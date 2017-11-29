@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project. 
 
-
-https://github.com/kyragililland/kyragililland.github.io/blob/master/Kyra.PNG
+![kyra](https://github.com/kyragililland/kyragililland.github.io/blob/master/Kyra.PNG
+?raw=true "Optional Title")
 
 ***
